@@ -1,0 +1,17 @@
+{
+    "isEnabled": true,
+    "x": 2,
+    "y": 15,
+    "textColor": 16777215,
+    "valueTextColor": 8904424,
+    "scale": 1.0,
+    "backgroundColor": 16777215,
+    "backgroundOpacity": 0.5,
+    "backgroundEnabled": false,
+    "satisfyTpsCount": true,
+    "textShadow": true,
+    "useServerProvidedData": true,
+    "askedForServerProvidedData": false,
+    "showCompatibilityToast": true,
+    "text": "TPS:"
+}

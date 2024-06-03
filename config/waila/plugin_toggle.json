@@ -1,0 +1,10 @@
+{
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:fabric": true,
+  "waila:test": false,
+  "levelz:plugin": true,
+  "betternether:plugin": true
+}

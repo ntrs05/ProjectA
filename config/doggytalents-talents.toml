@@ -1,0 +1,35 @@
+#Here you can disable talents.
+#Notice that players with admin privileges can bypass this.
+[Talents]
+	"doggytalents:doggy_armor" = true
+	"doggytalents:puppy_eyes" = true
+	"doggytalents:pack_puppy" = true
+	"doggytalents:chemi_canine" = true
+	"doggytalents:water_holder" = true
+	"doggytalents:creeper_sweeper" = true
+	"doggytalents:guard_dog" = true
+	"doggytalents:happy_eater" = true
+	"doggytalents:gate_passer" = true
+	"doggytalents:fire_drill" = true
+	"doggytalents:wolf_mount" = true
+	"doggytalents:fisher_dog" = true
+	"doggytalents:ookamikaze" = true
+	"doggytalents:quick_healer" = true
+	"doggytalents:flying_furball" = true
+	"doggytalents:black_pelt" = true
+	"doggytalents:pest_fighter" = true
+	"doggytalents:doggy_dash" = true
+	"doggytalents:roaring_gale" = true
+	"doggytalents:rescue_dog" = true
+	"doggytalents:shock_absorber" = true
+	"doggytalents:mob_retriever" = true
+	"doggytalents:pillow_paw" = true
+	"doggytalents:poison_fang" = true
+	"doggytalents:swimmer_dog" = true
+	"doggytalents:bed_finder" = true
+	"doggytalents:shepherd_dog" = true
+	"doggytalents:sniffer_dog" = true
+	"doggytalents:hell_hound" = true
+	"doggytalents:hunter_dog" = true
+	"doggytalents:doggy_tools" = true
+	"doggytalents:doggy_torch" = true

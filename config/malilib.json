@@ -1,0 +1,11 @@
+{
+  "Generic": {
+    "ignoredKeys": {
+      "keys": ""
+    },
+    "openGuiConfigs": {
+      "keys": "LEFT_ALT,A"
+    },
+    "realmsCommonConfig": true
+  }
+}

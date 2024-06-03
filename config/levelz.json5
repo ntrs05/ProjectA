@@ -8,11 +8,11 @@
 	// Applies if bonus chest world setting is enabled
 	"startPoints": 5,
 	// Enables starter points for SERVER only
-	"enableStartPoints": false,
-	"pointsPerLevel": 1,
+	"enableStartPoints": true,
+	"pointsPerLevel": 5,
 	// If true will reset stats on death
 	"hardMode": false,
-	"disableMobFarms": true,
+	"disableMobFarms": false,
 	// Amount of allowed mob kills in a chunk
 	"mobKillCount": 5,
 	// Strange potion resets all stats instead of one

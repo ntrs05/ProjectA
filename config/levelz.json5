@@ -6,7 +6,7 @@
 	// In combination with overallMaxLevel, only when all skills maxed
 	"allowHigherSkillLevel": false,
 	// Applies if bonus chest world setting is enabled
-	"startPoints": 5,
+	"startPoints": 2,
 	// Enables starter points for SERVER only
 	"enableStartPoints": true,
 	"pointsPerLevel": 3,
@@ -25,7 +25,7 @@
 	"healthBase": 10.0,
 	"healthBonus": 1.0,
 	// Absorption Bonus at max lvl
-	"healthAbsorptionBonus": 10.0,
+	"healthAbsorptionBonus": 6.0,
 	// Levelz Screen Multiplies it by 10
 	"movementBase": 0.09,
 	"movementBonus": 0.001,

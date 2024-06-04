@@ -25,5 +25,5 @@
   "doCropsGrowsNormallyUnderground": false,
   "doAnimalsBreedInWinter": true,
   "notifyCompat": true,
-  "debugCommandEnabled": false
+  "debugCommandEnabled": true
 }

@@ -9,7 +9,7 @@
 	"startPoints": 5,
 	// Enables starter points for SERVER only
 	"enableStartPoints": true,
-	"pointsPerLevel": 5,
+	"pointsPerLevel": 3,
 	// If true will reset stats on death
 	"hardMode": false,
 	"disableMobFarms": false,
